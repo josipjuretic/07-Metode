@@ -1,1 +1,4 @@
-﻿
+﻿Prije metode Uvećaj: 5
+U metodi Uvećaj: 6
+Nakon metode Uvećaj: 5
+GOTOVO!!!

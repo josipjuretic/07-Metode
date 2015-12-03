@@ -1,1 +1,4 @@
-﻿
+﻿Prije metode Uvećaj: 10
+Unutar metode Uvećaj: 11
+Nakon metode Uvećaj: 11
+GOTOVO!!!
